@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "45930c9ad7e4aac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "deca2f69e7adb587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee11f99eb1b6493e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Pointers/5. Passing Array as Pointer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Passing Array as Pointer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ba981669258a5d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd536a66104c7ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00471b4809375ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "359068aa1b719904",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d2579a971fa1642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd6ceeb99f9eedb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee53411bf30826b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83a439e062427d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Pointers/5. Passing Array as Pointer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5. Passing Array as Pointer"
+            }
+          },
+          {
+            "id": "b842f0191065404e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Pointers/5. Passing Array as Pointer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5. Passing Array as Pointer"
+            }
+          },
+          {
+            "id": "2636b5e677ffa30f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07739508a80b4c69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Pointers/5. Passing Array as Pointer.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5. Passing Array as Pointer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d00471b4809375ea",
+  "lastOpenFiles": [
+    "4. Pointers/4. Array of Pointers.md",
+    "4. Pointers/5. Passing Array as Pointer.md",
+    "3. Functions/1. Functions.md",
+    "4. Pointers/1. Introduction to Pointers.md",
+    "4. Pointers/2. Array=pointer.md",
+    "4. Pointers/3. Pointer Arithmetic.md",
+    "public/Screenshot 2024-10-20 at 9.24.59 PM.png",
+    "Untitled",
+    "public/Screenshot 2024-10-20 at 8.40.48 PM.png",
+    "4. Pointers",
+    "2. Control Flow/Control Flow Statements.md",
+    "1. Introduction/0. Getting Started.md",
+    "3. Functions",
+    "public/Screenshot 2024-10-20 at 11.57.55 AM.png",
+    "public/carbon.png",
+    "Untitled.md",
+    "2. Control Flow/Untitled",
+    "1. Introduction/2. Operators.md",
+    "2. Control Flow",
+    "1. Introduction/1. Data Types.md",
+    "public/Screenshot 2024-10-20 at 9.39.51 AM.png",
+    "public/Screenshot 2024-10-20 at 9.36.49 AM.png",
+    "public",
+    "public/Screenshot 2024-10-20 at 9.16.43 AM.png",
+    "public/Screenshot 2024-10-20 at 8.56.58 AM.png",
+    "Welcome.md",
+    "1. Introduction"
+  ]
+}
