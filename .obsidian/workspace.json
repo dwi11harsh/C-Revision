@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fd6ceeb99f9eedb6",
@@ -179,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a4ea692549dd20d",
+  "active": "d00471b4809375ea",
   "lastOpenFiles": [
     "Untitled.md",
     "5. Arrays/2. Storing 2D Array.md",
@@ -188,7 +187,7 @@
     "Screenshot 2024-10-21 at 4.49.34 PM.png",
     "Screenshot 2024-10-21 at 4.47.03 PM.png",
     "Screenshot 2024-10-21 at 4.41.56 PM.png",
-    "Screenshot 2024-10-21 at 4.33.00 PM.png",
+    "public/Screenshot 2024-10-21 at 4.33.00 PM.png",
     "5. Arrays/1. Storing 1D Array.md",
     "4. Pointers/4. Array of Pointers.md",
     "4. Pointers/3. Pointer Arithmetic.md",
