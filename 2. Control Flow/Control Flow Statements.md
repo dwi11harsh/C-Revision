@@ -154,11 +154,11 @@ void check(int i) {
 
 even:
     printf("%3d\teven\n", i);
-    
+    return;
 
 odd:
     printf("%3d\todd\n", i);
-    
+    return;
 }
 ```
 
